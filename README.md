@@ -8,7 +8,7 @@ Desenvolvimento de uma POC (Prova de Conceito) que demonstra o funcionamento de 
 
 <h2 id="tecnologias">💻 Tecnologias</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,js,typescript,nextjs&theme=light)](https://skillicons.dev)
 
 <h2 id="comecando">🚀 Desenvolvimento</h2>
 
