@@ -4,7 +4,7 @@
 
 <h1 align="center" style="font-weight: bold;">POC 6 - Aplicação NextJS</h1>
 
-Desenvolvimento de uma POC (Prova de Conceito) que demonstra o funcionamento de um sistema de compra de ingressos de um cinema.
+Desenvolvimento de uma POC (Prova de Conceito) que demonstra o funcionamento de uma interface de compra de ingressos.
 
 <h2 id="tecnologias">💻 Tecnologias</h2>
 
