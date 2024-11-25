@@ -13,6 +13,10 @@ cinema, exibindo informações do filme e permitindo alterar o tema (claro ou es
 
 <h2 id="comecando">🚀 Desenvolvimento</h2>
 
+<p align="center">
+  <img src="projeto-lightmode.jpeg" alt="POC 6 - Aplicação NextJS">
+</p>
+
 1. **Arquivo layout.tsx: Configuração do Layout e Tema**: Define o layout principal do projeto. Ele é responsável por gerenciar o tema, detectando as preferências do sistema e adicionar um botão para alternância manual entre os temas.
 
 Detectar o tema automático com prefers-color-scheme:
