@@ -1,0 +1,50 @@
+[data-theme="dark"] {
+  --background: #2e303b;
+  --foreground: #ffffff;
+  --primary: #21c41b;
+  --secondary: #818181;
+  --button-text: #ffffff;
+  --available: #d3d3d3;
+  --unavailable: #ff3e3e;
+}
+
+[data-theme="light"] {
+  --background: #f0f0f0;
+  --foreground: #1a1a24;
+  --primary: #db3d2e;
+  --secondary: #bababa;
+  --button-text: #1a1a24;
+  --available: #bababa;
+  --unavailable: #1a1a24;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+button {
+  cursor: pointer;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .sinopse-detalhes {
+    display: none;
+  }
+
+  .assentos-container {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .botao-comprar {
+    margin-top: 20px;
+  }
+}
