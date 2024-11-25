@@ -110,6 +110,35 @@ O projeto combina interatividade com um design responsivo e acessível. Ele perm
 
 <br>
 
+## 🛠️ Passo a Passo de Implementação
+
+### 1. Configuração do Ambiente
+
+- Certifique-se de ter o **Node.js** instalado.
+- Inicialize um novo projeto Next.js:
+  ```bash
+  npx create-next-app@latest
+  ```
+
+## ⚙️ Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/RafaelMaso/POC6-NextJS.git)
+   ```
+2. Navegue até a pasta do projeto:
+   ```bash
+   app
+   ```
+3. Instale as dependências:
+   ```bash
+   npm installa
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
+
 <h2 id="colabs">🤝 Colaboradores</h2>
 
 - Rafael Trindade Dal Maso
