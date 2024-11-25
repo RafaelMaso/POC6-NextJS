@@ -8,9 +8,9 @@ Desenvolvimento de uma POC (Prova de Conceito) que demonstra o funcionamento de 
 
 <h2 id="tecnologias">💻 Tecnologias</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nextjs&theme=light)](https://skillicons.dev)
 
-<h2 id="comecando">🚀 Começando</h2>
+<h2 id="comecando">🚀 Desenvolvimento</h2>
 
 1. **Inspecionar elemento**: Clique com o botão direito em qualquer canto da página e selecione "Inspecionar Elemento"; <br><br> <img src="inspecionar-elemento.png" alt="Inspecionando elemento"> <br><br> 
 
